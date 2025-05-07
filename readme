@@ -2,7 +2,7 @@ RBLProxy - DNSBL Scoring System
 
 Overview
 
-RBLProxy is a public DNSBL proxy hosted at rblproxy.clientnshosting.net. RBLProxy offers a streamlined solution to consolidate multiple DNSBLs (like Spamhaus and Spamcop) into a single, smart DNSBL, eliminating the need to configure each DNSBL separately.
+RBLProxy is a public DNSBL proxy hosted at "rblproxy.clientnshosting.net". RBLProxy offers a streamlined solution to consolidate multiple DNSBLs (like Spamhaus and Spamcop) into a single, smart DNSBL, eliminating the need to configure each DNSBL separately.
 
 RBLProxy operates as a scoring system to identify high-risk IP addresses. By aggregating data from several trusted DNSBLs, it flags only those IPs that appear on multiple lists—effectively reducing false positives while enhancing spam protection.
 
@@ -25,7 +25,7 @@ Recent Updates
 
 Getting Started
 
-RBLProxy is freely available and can be easily integrated with low-volume email systems or custom security scripts. To start, simply query rblproxy.clientnshosting.net with any IP in reverse format.
+RBLProxy is freely available and can be easily integrated with email systems or custom security scripts. To start, simply query rblproxy.clientnshosting.net with any IP in reverse format.
 
 Feedback and Support
 
